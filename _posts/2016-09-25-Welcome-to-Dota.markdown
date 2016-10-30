@@ -12,10 +12,10 @@ There's much to look forward to, so keep an eye out for events and gatherings. L
         <div class="row">
         <div class="6u">
           <section class="special">
-            <a href="https://goo.gl/forms/qpoqZBSL4A15YGi82" class="image fit"><img src="/images/pic02.jpg" alt="" /></a>
+            <a href="https://orgsync.com/102825/chapter" class="image fit"><img src="/images/pic02.jpg" alt="" /></a>
             <h3>Formally Register</h3>
             <ul class="actions">
-              <li><a href="https://goo.gl/forms/qpoqZBSL4A15YGi82" class="button alt">Sign Up Here</a></li>
+              <li><a href="https://orgsync.com/102825/chapter" class="button alt">Sign Up Here</a></li>
             </ul>
           </section>
         </div>
